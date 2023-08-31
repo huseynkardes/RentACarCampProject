@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Application.Features.Auths.Dtos
 {
-	internal class RegisteredDto
+	public class RegisteredDto : RefreshedTokenDto
 	{
+
 	}
 }
